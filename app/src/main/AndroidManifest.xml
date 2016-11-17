@@ -12,10 +12,10 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
-        <activity android:name=".DeviceListView">
+        <activity android:name=".DeviceListActivity">
 
         </activity>
-        <activity android:name=".JoystickView">
+        <activity android:name=".JoystickActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />

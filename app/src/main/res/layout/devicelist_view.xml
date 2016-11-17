@@ -4,7 +4,7 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:background="@color/colorPrimaryDark"
-    tools:context="astromech.r2d2.DeviceListView">
+    tools:context=".DeviceListActivity">
 
     <ListView
         android:id="@+id/list_devices"

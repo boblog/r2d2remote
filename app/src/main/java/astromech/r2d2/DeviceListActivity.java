@@ -5,5 +5,5 @@ import android.app.Activity;
 /**
  * Created by bopetersen on 21/06/16.
  */
-public class DeviceListView extends Activity {
+public class DeviceListActivity extends Activity {
 }

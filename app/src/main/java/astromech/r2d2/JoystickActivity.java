@@ -18,7 +18,7 @@ import android.widget.Toast;
 import app.akexorcist.bluetotohspp.library.BluetoothSPP;
 import app.akexorcist.bluetotohspp.library.BluetoothState;
 
-public class JoystickView extends Activity implements View.OnTouchListener {
+public class JoystickActivity extends Activity implements View.OnTouchListener {
 
     CurrentView v;
     Bitmap JoystickBack;
